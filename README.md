@@ -11,3 +11,5 @@ The main advantages of TestNG over JUnit are :
 - Annotations are strongly typed, so the compiler will flag any mistakes right away.
 
 The TestNG testing framework can execute your tests in parallel. It can also execute some function just before or right after your tests.
+
+More information about testng can be found on my blog post here - http://smritituteja.in/testng-framework/
